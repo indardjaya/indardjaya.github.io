@@ -1,6 +1,11 @@
+.navbar {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
+  font-family:helvetica;
 }
 
 #projects {
